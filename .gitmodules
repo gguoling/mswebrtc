@@ -1,4 +1,4 @@
 [submodule "webrtc"]
 	path = webrtc
-	url = https://gitlab.linphone.org/BC/public/external/webrtc.git
+	url = https://github.com/gguoling/webrtc.git
 	ignore = dirty
